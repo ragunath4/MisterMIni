@@ -1,2 +1,2 @@
 # MisterMIni
-MEchanical Parts
+Mechanical Parts
