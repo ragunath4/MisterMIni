@@ -1,2 +1,2 @@
-# MisterMIni
+# MisterMini
 Mechanical Parts
